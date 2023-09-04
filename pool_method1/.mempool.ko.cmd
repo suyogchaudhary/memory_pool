@@ -1,0 +1,1 @@
+cmd_/home/cj7/project/pool_method1/mempool.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/cj7/project/pool_method1/mempool.ko /home/cj7/project/pool_method1/mempool.o /home/cj7/project/pool_method1/mempool.mod.o;  true

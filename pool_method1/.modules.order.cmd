@@ -1,0 +1,1 @@
+cmd_/home/cj7/project/pool_method1/modules.order := {   echo /home/cj7/project/pool_method1/mempool.o;   echo /home/cj7/project/pool_method1/demo.o;   echo /home/cj7/project/pool_method1/malloc.o; :; } > /home/cj7/project/pool_method1/modules.order
